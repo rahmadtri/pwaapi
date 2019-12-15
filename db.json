@@ -1,0 +1,24 @@
+{
+"product": [
+[{"id":1,"name":"Rat, desert kangaroo","category":"Purple"},
+{"id":2,"name":"Teal, hottentot","category":"Teal"},
+{"id":3,"name":"Eastern indigo snake","category":"Puce"},
+{"id":4,"name":"Peccary, white-lipped","category":"Goldenrod"},
+{"id":5,"name":"House sparrow","category":"Orange"},
+{"id":6,"name":"Long-crested hawk eagle","category":"Green"},
+{"id":7,"name":"Monitor, water","category":"Puce"},
+{"id":8,"name":"Python (unidentified)","category":"Yellow"},
+{"id":9,"name":"Black-crowned crane","category":"Maroon"},
+{"id":10,"name":"Savanna fox","category":"Violet"},
+{"id":11,"name":"Antelope, roan","category":"Puce"},
+{"id":12,"name":"Legaan, water","category":"Orange"},
+{"id":13,"name":"Egret, great","category":"Indigo"},
+{"id":14,"name":"Mara","category":"Maroon"},
+{"id":15,"name":"American Virginia opossum","category":"Violet"},
+{"id":16,"name":"Indian jackal","category":"Khaki"},
+{"id":17,"name":"Brown and yellow marshbird","category":"Puce"},
+{"id":18,"name":"Duck, white-faced whistling","category":"Maroon"},
+{"id":19,"name":"Vervet monkey","category":"Pink"},
+{"id":20,"name":"Rose-ringed parakeet","category":"Pink"}]
+]
+}
