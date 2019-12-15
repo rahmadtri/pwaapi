@@ -1,6 +1,7 @@
 {
-"product": [
-[{"id":1,"name":"Rat, desert kangaroo","category":"Purple"},
+"product": 
+[
+{"id":1,"name":"Rat, desert kangaroo","category":"Purple"},
 {"id":2,"name":"Teal, hottentot","category":"Teal"},
 {"id":3,"name":"Eastern indigo snake","category":"Puce"},
 {"id":4,"name":"Peccary, white-lipped","category":"Goldenrod"},
@@ -19,6 +20,7 @@
 {"id":17,"name":"Brown and yellow marshbird","category":"Puce"},
 {"id":18,"name":"Duck, white-faced whistling","category":"Maroon"},
 {"id":19,"name":"Vervet monkey","category":"Pink"},
-{"id":20,"name":"Rose-ringed parakeet","category":"Pink"}]
+{"id":20,"name":"Rose-ringed parakeet","category":"Pink"}
 ]
+
 }
